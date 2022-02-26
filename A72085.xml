@@ -1,0 +1,240 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good newes from Fraunce a true discourse of the winning of sundry cheefe townes, castles, and holdes in Fraunce, which are now in the obedience of the French king : with the great victorie which his Maiestie hath had in sundry late battels, skirmishes, and pursuites made vpon the enemy at Mouncounter in Brittanie, and elsewhere, since the winning of Chartres, which was in April last : together with the defeating, drowning, and taking of much victuaile, corne, and money sent by the enemy to the cittie of Paris / published by authoritie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1592</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72085</idno>
+            <idno type="STC">STC 11273.5</idno>
+            <idno type="STC">ESTC S5365</idno>
+            <idno type="EEBO-CITATION">39961087</idno>
+            <idno type="OCLC">ocm 39961087</idno>
+            <idno type="VID">150393</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72085)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150393)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1945:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good newes from Fraunce a true discourse of the winning of sundry cheefe townes, castles, and holdes in Fraunce, which are now in the obedience of the French king : with the great victorie which his Maiestie hath had in sundry late battels, skirmishes, and pursuites made vpon the enemy at Mouncounter in Brittanie, and elsewhere, since the winning of Chartres, which was in April last : together with the defeating, drowning, and taking of much victuaile, corne, and money sent by the enemy to the cittie of Paris / published by authoritie.</title>
+               </titleStmt>
+               <extent>[22, i.e. 24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Nelson, and are to be solde by William Wright,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>[1592]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: signature A₄ lacking, cropped, stained, and with print show-through.</note>
+                  <note>Signatures: A-C⁴ (last leaf blank).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France --  History --  Henry IV, 1589-1610.</term>
+               <term>Moncontour (Côtes-du-Nord, France) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150393:1" rendition="simple:additions"/>
+            <p>Good newes from <hi>Fraunce.</hi>
+            </p>
+            <p>A true Diſcourſe of the winning of ſundry cheefe Townes, Caſtles, and holdes in <hi>Fraunce,</hi> which are now in the obedience of the French King.</p>
+            <p>With the great Victorie which his Maieſtie hath had in ſundry late Battels, Skirmiſhes, and purſuites made vpon the enemy at <hi>Mouncounter</hi> in <hi>Brittanie,</hi> and elſe where, ſince the winning of <hi>Chartres,</hi> which was in Aprill laſt.</p>
+            <p>Together with the defeating, drow<g ref="char:EOLhyphen"/>ning, and taking of much victuaile, corne, and mony ſent by the Enemy to the Cittie of Paris.</p>
+            <p>Publiſhed by Authoritie.</p>
+            <p>AT LONDON Printed for Thomas Nelſon, and are to be ſolde by William Wright.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:150393:2"/>
+            <pb facs="tcp:150393:2"/>
+            <head>To the Curteous Reader.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Ho ſo beholdeth and conſidereth the preſent eſtate of the French King, may eaſily ſee and perceiue how vnſpea<g ref="char:EOLhyphen"/>kable and of what pow<g ref="char:EOLhyphen"/>er the woorkes of God are, in the defence of thoſe that put their truſt in him: he ſtill preſerueth this good King from danger, he giueth him ſtrength being weake to o<g ref="char:EOLhyphen"/>uercome thoſe that are the mightye ene<g ref="char:EOLhyphen"/>mies of his trueth.</p>
+            <p>It cannot be otherwiſe ſaide, but that the God of heauen dooth aide and aſsiſt his Maieſtie, that beateth downe his ene<g ref="char:EOLhyphen"/>mies in the high way, that daunteth them with feare, and giueth him a magnanimi<g ref="char:EOLhyphen"/>ous
+<pb facs="tcp:150393:3"/> minde againſt them: Terror and ma<g ref="char:EOLhyphen"/>ieſtie ſitteth in the forehead of this chriſti<g ref="char:EOLhyphen"/>an King, and the Creator of all creatures preſerueth him as the apple of his eye: if then it cannot be denied but that euen in all his honourable and Princely actions a<g ref="char:EOLhyphen"/>gainſt the rebellious and wilfull people of that nation (who are riſen vp in great mul<g ref="char:EOLunhyphen"/>titudes and armies againſt him) the God of heauen goeth foorth before him, and as it were with a Clubbe ſtriketh downe that wicked and rebellious rout, to the amaze<g ref="char:EOLhyphen"/>ment and terrour of the whole worlde: how dare they then reſiſt him and re<g ref="char:EOLhyphen"/>pugne him of his right? naye how dare they attempt to take armes againſt God and their lawfull Soueraigne? not fearing that God, yea that God whoſe power is vnſpeakable, whoſe terrour in the defence of his trueth is as a burning Swoord, and whoſe right hand woorketh their de<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <p>O peruerſe rabble of traiterous ſubiects, O blinde and wilfull in all wickednes and</p>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:150393:3"/>
+            <head>A true diſcourſe of all ſuch things as hath hap<g ref="char:EOLhyphen"/>pened in Fraunce, ſince the yeel<g ref="char:EOLhyphen"/>ding vppe of Chartres vnto his Maieſtie.</head>
+            <head type="sub">Faithfully tranſlated out of French.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>HE Kings</hi> Ma<g ref="char:EOLhyphen"/>ieſtie, hauing entred into y<hi rend="sup">e</hi> Town of <hi>Char<g ref="char:EOLhyphen"/>tres,</hi> vpon the <hi>19.</hi> day of Aprill laſt,<note place="margin">His Ma. de<g ref="char:EOLhyphen"/>parture fro<g ref="char:cmbAbbrStroke">̄</g> Chartres af<g ref="char:EOLhyphen"/>ter hee had beene moſt roially recei<g ref="char:EOLhyphen"/>ued into the ſame.</note> (accor<g ref="char:EOLhyphen"/>ding to the <hi>Romane</hi> Computation,) and beeing receiued with great triumph into the ſame, and all thinges performed vnto his Maie<g ref="char:EOLhyphen"/>ſtie, according to certaine Articles already pub<g ref="char:EOLhyphen"/>liſhed,
+<pb facs="tcp:150393:4"/> his Maieſtie béeing accompanied with a great troupe of Horſemen,<note place="margin">The Duke de Maine flyeth, and retyreth to<g ref="char:EOLhyphen"/>wardes Rheims.</note> went towardes the Caſtell of <hi>Thiery,</hi> purpoſing to rayſe the ſiedge which the <hi>Duke De Mayne</hi> had layde againſt it. But the Duke, contrary to his Maieſties expec<g ref="char:EOLhyphen"/>tation, durſt not be ſo bolde as to ſtay there, but gotte from thence by flight, although contrary to the promiſe of the Gouernour, the ſaide Caſtell <hi>Thiery</hi> was ſurrendred to the enemies vſe, wher<g ref="char:EOLhyphen"/>as the ſaid Gouernour had promiſed to hold it one Moneth longer, vntill the comming of hys Ma<g ref="char:EOLhyphen"/>ieſtie.</p>
+            <p>Neuertheleſſe, his Maieſtie left not to pur<g ref="char:EOLhyphen"/>ſue the <hi>Duke De Mayne,</hi> who was retyred to<g ref="char:EOLhyphen"/>wards <hi>Rheimes,</hi> meaning there to ſtay himſelfe for a ſpace: but by reaſon of the brute which was noyſed all ouer the Countrey, that the Duke had deuided his Armie into ſundry parts, and that they ſhoulde continue in that ſorte for certaine dayes,<note place="margin">The Caſtle of Dowſery and of Clay yeelded.</note> was the onely cauſe that the Kings Ma<g ref="char:EOLhyphen"/>ieſtie ſtaied three dayes at <hi>Senlis,</hi> to the end that in the meane while, the Caſtell of <hi>Douſery</hi> and <hi>Claye</hi> lying neere to <hi>Aumartin,</hi> where the Ene<g ref="char:EOLhyphen"/>mies kept ſome Souldiours, might be taken, which was ſpeedily doone: whereupon his Maie<g ref="char:EOLhyphen"/>ſtie in the purſute,<note place="margin">Tremblay yeelded.</note> commaunded the Towne of <hi>Tremblay</hi> by <hi>Montfort</hi> to yeelde to his obedience, which they did, which Towne is a great hurt, to the paſſage.</p>
+            <pb facs="tcp:150393:4"/>
+            <p>Meanewhiles <hi>Mounſier,</hi> the Duke <hi>Deſper<g ref="char:EOLhyphen"/>non,</hi> and the Lords <hi>Deo</hi> and <hi>Vicq.</hi> vnderſtanding of a great number of <hi>Boates</hi> paſſing the Riuer, which were of the bigneſſe of Lighters, and that they were going downe towards <hi>Parris,</hi> laden with Corne and other commodities, which came from the ſaide Caſtell of <hi>Thiery,</hi>
+               <note place="margin">Certaine boates laden from y<hi rend="sup">e</hi> Ca<g ref="char:EOLhyphen"/>ſtle of Thie<g ref="char:EOLhyphen"/>ry, with wheat and money wil<g ref="char:EOLhyphen"/>lingly drow<g ref="char:EOLhyphen"/>ned to hin<g ref="char:EOLhyphen"/>der the ene<g ref="char:EOLhyphen"/>mie.</note> they omitted no time, but with force ſette forward with great dilligence to ouertake them: which hauing ſpee<g ref="char:EOLhyphen"/>dily doone, they preſently drowned foureteene or fifteene of the greateſt of them, with all the pro<g ref="char:EOLhyphen"/>uiſion in the ſame: and aſwell drowned all their cheefe prouiſion of Wheate, as alſo prouiſion of money, which was carried in the ſame Boates, ſo that there eſcaped but a fewe ſmall Boates,<note place="margin">Some ſmall boates eſ<g ref="char:EOLhyphen"/>caped.</note> which with ſome ſmall prouiſion of Corne, ſaued themſelues by flight.</p>
+            <p>The Kings Maieſtie departed from his Ar<g ref="char:EOLhyphen"/>mie to <hi>Auneau</hi> &amp; <hi>Macheuiuille,</hi>
+               <note place="margin">Auneau &amp; Macheui<g ref="char:EOLhyphen"/>uille yelded.</note> which Townes are alſo reduced vnder hys Maieſties obedience, and ſhortly after, the Kings Armie remooued to <hi>Dourdan,</hi>
+               <note place="margin">Durdon en<g ref="char:EOLhyphen"/>tered by force.</note> which Towne they immediatly entred by force, wherein was founde great ſtore of vic<g ref="char:EOLhyphen"/>tuals, which were gathered, and intended alſo to be conueied to <hi>Parris.</hi>
+            </p>
+            <p>Thus the Kings Maieſties power hauing cutte them off, and defeated the Enemie of great
+<pb facs="tcp:150393:5"/> ſtore of victuals, the Marſhall <hi>Biron</hi> gaue aduiſe to the Kinges Maieſtie, for the ſpeedy taking of the Caſtell: howbeit it was very ſtrong, but be<g ref="char:EOLhyphen"/>ing obtained, it is the onely meane to depryue them of <hi>Parris,</hi> of all manner of commodities and ſuccour whatſoeuer.</p>
+            <p>The inhabitants of <hi>Parris,</hi>
+               <note place="margin">Paris depri<g ref="char:EOLhyphen"/>ued of all paſſage for prouiſion or victuals.</note> are now ſtriken into a great feare by reaſon of the loſſe of <hi>Char<g ref="char:EOLhyphen"/>tres,</hi> and alſo by finding themſelues depriued of victuals, money, Munition, and all other war<g ref="char:EOLhyphen"/>like prouiſions for theyr ſtrength and ſuccour, as hath béene lately ſéene by ſundry Letters inter<g ref="char:EOLhyphen"/>cepted, from the Biſhop of <hi>Pleaſance,</hi> and <hi>Moun<g ref="char:EOLhyphen"/>ſier Belin,</hi> who is the chiefe Commaunder or Ru<g ref="char:EOLhyphen"/>ler in the ſaid Cittie of <hi>Parris.</hi>
+            </p>
+            <p>Nowe hys Maieſtie lying at <hi>Senlis,</hi> came from thence to <hi>Creſpij</hi> in <hi>Valloyes,</hi> from whence the next day he departed earely in the morning, intending to goe and charge vpon ſome troupes, of whom his Maieſtie had ſecrete intelligence, and that they were to be lodged in eyght or tenne Villages, betweene <hi>La fere</hi> and the Caſtell <hi>Thi<g ref="char:EOLhyphen"/>ery,</hi>
+               <note place="margin">The Caſtle Thiery very ſtronge.</note> which in troth was the greateſt part of Horſ<g ref="char:EOLhyphen"/>men that the Enemie had.</p>
+            <p>Notwithſtanding this his Maieſties verie ſuddaine, ſecrete, and ſpeedy departure towards them, yet by that time hee had paſſed but fyue
+<pb facs="tcp:150393:5"/> myles, hys Highneſſe heard, that the brute of hys co<g ref="char:cmbAbbrStroke">̄</g>ming was already blazed among thoſe troupes of Horſemen,<note place="margin">The Lea<g ref="char:EOLhyphen"/>gars flyeth through the Riuer of Marne.</note> whereby in the euening and night before, they fledde and were paſſed beyonde the Riuer of <hi>Marne,</hi> and that with ſuch great feare, as if his Maieſties forces had come thether in tyme, the moſt part of them had been taken and ſlaine.</p>
+            <p>Héereupon hys Maieſtie returned to <hi>Creſpij,</hi> and from thence on the firſt of May laſt, to <hi>Cam<g ref="char:EOLhyphen"/>paigne,</hi> béeing reſolued to paſſe to <hi>Chauny,</hi> en<g ref="char:EOLhyphen"/>tending then to take the Caſtels of <hi>Manican</hi> and <hi>Genlis,</hi> and for the better effecting of hys Maie<g ref="char:EOLhyphen"/>ſties purpoſe therein, two great Cannons and diuers other Ordinaunce was brought fro<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>Cam<g ref="char:EOLhyphen"/>paigne,</hi> which thoſe that were in <hi>Manican</hi> did not attend but ſled, and left the place before his Ma<g ref="char:EOLhyphen"/>ieſtie was there arriued.</p>
+            <p>The King vppon the fourth day of this mo<g ref="char:EOLhyphen"/>neth,,<note place="margin">Ordinance brought be<g ref="char:EOLhyphen"/>fore Genlis.</note> made a viewe of the ſayde <hi>Genlis</hi> and cau<g ref="char:EOLhyphen"/>ſed the ſayde Ordenance and Munition to be brought thether, with other that came from <hi>Saint Quintaines,</hi> to the ende, to make ſhort worke ther<g ref="char:EOLunhyphen"/>of: but thereuppon the ſayde place of <hi>Genlis</hi> was immediatly yeelded to his Maieſtie.</p>
+            <p>Soone after it pleaſed God, that an other good happe fortuned to his Maieſtie, in thys his pur<g ref="char:EOLhyphen"/>ſute
+<pb facs="tcp:150393:6"/> and iourney:<note place="margin">The ſucces of the Duke de Maine to his Troupes of Almaines</note> for the <hi>Duke de Maine</hi> ha<g ref="char:EOLhyphen"/>uing ſent into thoſe quarters, the regiment of the <hi>Almaines,</hi> which laſt came vnto him, beeing nyne Enſignes, onely to bee placed in ſome Townes, which traytorouſly held with the Lea<g ref="char:EOLhyphen"/>gors, againſt his Maieſtie: who Marching to <hi>Couſſy,</hi> had the Gates of the Towne kept faſt againſt them, by meanes of which reſiſtaunce at the gates of <hi>Couſſy,</hi> (wher they ſuppoſed to be re<g ref="char:EOLhyphen"/>ceiued)<note place="margin">The ſucces which com<g ref="char:EOLhyphen"/>monly fol<g ref="char:EOLhyphen"/>loweth Traytors.</note> together with the brute of his Maieſties comming towards them, they ſuddainly retyred, and beeing greatly terrified, they ranne fiercely into the Forreſt, hoping thereby to ſaue them<g ref="char:EOLhyphen"/>ſelues.</p>
+            <p>At which tyme ſome few Souldiours, moun<g ref="char:EOLhyphen"/>ted on horſebacke, béeing fifty in number,<note place="margin">The Garri<g ref="char:EOLhyphen"/>ſon of Sant Goubin.</note> belon<g ref="char:EOLhyphen"/>ging to the Garriſon of <hi>Saint Goubin,</hi> onely con<g ref="char:EOLhyphen"/>ducted by a Sargeant, who in the Forreſt mar<g ref="char:EOLhyphen"/>ching with about foure ſcore boores of the Coun<g ref="char:EOLhyphen"/>trey, hearing of the arriuall of the Kings Maie<g ref="char:EOLhyphen"/>ſtie, were greatly encouraged, and began to pur<g ref="char:EOLhyphen"/>ſue them, and immediatly ſet vpon them, crying: <hi>
+                  <g ref="char:V">Ʋ</g>iue le Roy,</hi>
+               <note place="margin">A ſtraunge and vnloo<g ref="char:EOLhyphen"/>ked for vic<g ref="char:EOLhyphen"/>torie.</note> 
+               <hi>God ſaue the King.</hi> Whereuppon theſe <hi>Almaynes</hi> were wonderouſly amazed, and ſuppoſing that his Maieſtie had béene there per<g ref="char:EOLhyphen"/>ſonally preſent, they fled immediatly, without of<g ref="char:EOLhyphen"/>fering any reſiſtance: wherupon this ſmall com<g ref="char:EOLhyphen"/>pany, little thinking of any ſuch good ſucceſſe, did with great courage purſue them: by meanes
+<pb facs="tcp:150393:6"/> of which purſute, they were all diſcomfited, ſlaine, and taken, and their <hi>Collonell</hi> ſlayne alſo,<note place="margin">Seauen com<g ref="char:EOLunhyphen"/>panies of Almaines ſlayne.</note> onely two Enſignes of thoſe nine Companies were beſides ſaued in <hi>La Fere,</hi> with ſome fiftie or three ſcore men, who were weaponleſſe and vnarmed, which they had flung away, the better to ſaue themſelues by flight. Thus were theſe compa<g ref="char:EOLhyphen"/>nies diſcomfited, and the Countrey well pur<g ref="char:EOLhyphen"/>ged of them, ſo that his Maieſtie founde his de<g ref="char:EOLhyphen"/>ſire ſufficiently effected, without putting his hand thereunto.</p>
+            <p>Not many dayes before, the ſayd Garriſon of <hi>Saint Goubin,</hi> had diſcomfited two or thrée Regi<g ref="char:EOLhyphen"/>ments of the Leagors,<note place="margin">Three Regi<g ref="char:EOLhyphen"/>ments of the League taken and ſlayne.</note> which were gone out of their Garriſons, to goe to the <hi>Duke de Maine,</hi> and put many of them to the ſworde.</p>
+            <p>About thrée dayes after, <hi>Mounſier Humiers</hi> knowing that the companie of horſemen of <hi>Mountcaure</hi> had aſſembled in a Burroughe or village there about, hee departed with a power from <hi>Corbeylle,</hi> intending to ſette vpon them, and hauing by chaunce founde by the way, the com<g ref="char:EOLhyphen"/>pany of the horſemen of <hi>Dour Lay,</hi>
+               <note place="margin">A company of horſeme<g ref="char:cmbAbbrStroke">̄</g> ſlayne.</note> hee by a fierce aſſault, hadde ſoone diſcomfited, hauing ſlaine many of them and taken the moſte parte of the reſt, by meanes whereof few or none of them eſcaped: neuertheleſſe, he ceaſed not to proſecute his former purpoſe and intent, which fell out ſo
+<pb facs="tcp:150393:7"/> happily, that hee had ſoone ſurpryſed all the ſayde companie of <hi>Mountcaure,</hi>
+               <note place="margin">A company at Mount<g ref="char:EOLunhyphen"/>caure diſ<g ref="char:EOLhyphen"/>comfited.</note> in the Burrough, where the moſt part of them were at play, guar<g ref="char:EOLhyphen"/>ded with a ſmall watch, little thinking of that which in a moment came to paſſe.</p>
+            <p>Thys good ſucceſſe made his Maieſtie not little ioyfull, who giuing heartie thankes to God for the ſame, was determined to ſtaie with hys Armie ſo little as hee might: hoping neuerthe<g ref="char:EOLhyphen"/>leſſe, to reape yet ſome greater benefite of this his iourney.</p>
+            <p>In <hi>Brittanie</hi> the enimies had taken the Towne of <hi>Moncounter,</hi>
+               <note place="margin">Moncoun<g ref="char:EOLhyphen"/>ter taken.</note> but the Caſtle helde out, attending, the ſuccour which was ready: for <hi>Mounſier de la Tremblay,</hi> Commander of that place, who being gone about ſome exployt, fiftéen Leagues from thence, had ſpeedie intelligence that his place was taken, and therefore reſolued to enter the Caſtle with fortie light horſemen, whome he cauſed to goe one foote, aboute a quar<g ref="char:EOLhyphen"/>ter of a myle from the ſayde <hi>Moncounter,</hi>
+               <note place="margin">A good fore-ſight.</note> becauſe no men could iſſue into the ſayde Caſtle but with Ladders,<note place="margin">A great ſlaughter happened a<g ref="char:EOLhyphen"/>mong his Maieſties e<g ref="char:EOLhyphen"/>nemies.</note> whereinto he entered by force, and ſud<g ref="char:EOLhyphen"/>dainly ſlewe two watches, making ſithence two or thrée iſſues for aſſault: by meanes whereof, there hath happened a great ſlaughter vppon his Maieſties enimies.</p>
+            <pb facs="tcp:150393:7"/>
+            <p>Many of the Nobilitie beeing then at <hi>Rennis,</hi> were reſolued to take horſe and to commaund all the Garriſons thereabout to goe ſtraight to the ſaid Towne of <hi>Moncounter,</hi>
+               <note place="margin">Mounſier the Prince Dumbis abſent at the taking of Moun<g ref="char:EOLhyphen"/>counter.</note> and to make what re<g ref="char:EOLhyphen"/>ſiſtaunce they might, and the rather for that they ſawe <hi>Mounſier</hi> the Prince <hi>Dumbes</hi> was at that time ridden foorth about fiftéene or eightéene myles from that ſaid town of <hi>Rennis,</hi> muſtered vp imedi<g ref="char:EOLhyphen"/>atlye ſo many as they might procure vpon the ſud<g ref="char:EOLhyphen"/>daine, which was a hundreth and fiftie Horſemen, well appointed, and two hundreth footemen: who beeing well furniſhed with harquebuzzers, were foorthwith ſent about two forlonges from the ſaide <hi>Moncounter,</hi>
+               <note place="margin">Power ſent from Rennis and other places.</note> to the intent onely to ioyne with the like company of Souldiours, who came from ano<g ref="char:EOLhyphen"/>ther towne being ſent for the ſame purpoſe.</p>
+            <p>In the meane while, <hi>Mounſier <hi>de S. Laurent,</hi>
+               </hi> chéefe Marſhall of the armie and troupes, apper<g ref="char:EOLhyphen"/>taining to the Duke of <hi>Mercurie,</hi> who was gon in<g ref="char:EOLhyphen"/>to the ſaid Town of <hi>Mouncounter,</hi>
+               <note place="margin">The num<g ref="char:EOLhyphen"/>ber of horſſe and foot which had entred Mouncoun<g ref="char:EOLunhyphen"/>ter.</note> with thrée hun<g ref="char:EOLhyphen"/>dreth Horſemen well appointed, togither with a thouſand Harquebuzzers being immediatly aduer<g ref="char:EOLhyphen"/>tiſed of the comming of his Maieſtie with his roy<g ref="char:EOLhyphen"/>all troupes attending his perſon, and ſéeing the minſtring vp of men<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> euerye ſide to make reſi<g ref="char:EOLhyphen"/>ſtance, he reſolued to leaue the ſame towne, ſuppo<g ref="char:EOLhyphen"/>ſing it better to departe thence, then to enioye the ſame as it might fall out to his greater damage: And foraſmuch as he <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ew the Kings maieſtie pol<g ref="char:EOLhyphen"/>liticke and wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ing he would haue found meanes at his comming thither, either to haue fu<g ref="char:EOLhyphen"/>miſhed them in time, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>to haue entred the walles by force, he departe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Mouncounter</hi> abou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ele<g ref="char:EOLhyphen"/>uen
+<pb facs="tcp:150393:8"/> of the clock in the euening,<note place="margin">Their de<g ref="char:EOLhyphen"/>parture fro<g ref="char:cmbAbbrStroke">̄</g> thence by night to Londiace.</note> hauing with him two hundreth Horſemen, and ſix hundreth harque<g ref="char:EOLhyphen"/>buzzers, and taking then the aduantage to trauell in the night, he came to <hi>Londiac,</hi> by ſix of the clocke on the next morning, where his Maieſtie with his armie laye, who hauing intelligence of his com<g ref="char:EOLhyphen"/>ming, delayed no time, but immediatly went into the Feelde to battell.</p>
+            <p>The enemy perceiuing that the King was ime<g ref="char:EOLhyphen"/>diatly bent to bid him battaile, and that his Maie<g ref="char:EOLhyphen"/>ſtie at his comming thither, had ſent ſome of his troupes into the feelde for that purpoſe, he left his Harquebuzzers before the trench of the town, thin<g ref="char:EOLhyphen"/>king thereby to force the Barricados or trenche to yeelde themſelues, which they would not doo.</p>
+            <p>Whervpon the enemye aduaunced themſelues and marched into the feelde, ſetting themſelues in battell raye, and deuided his Horſemen and Har<g ref="char:EOLhyphen"/>quebuzzars into two troupes or companies: on the one troupe there was fiftie Horſemen, and on the other cheefe troupe there was two hundreth Horſe men, beſides other troupes which was on the ene<g ref="char:EOLhyphen"/>mies ſide.</p>
+            <p>On the Kings ſide, there were not in the Féelde of battell, aboue ſixe ſcore horſemen, whereof there were alſo made two troupes,<note place="margin">The battell at Londi<g ref="char:EOLhyphen"/>ace where his maieſtie had the victorie.</note> the one troupe had but thirtie Horſemen, and the other head troup had foureſcore and ten: The footmen of either parte be<g ref="char:EOLhyphen"/>ing ſet in battell raye (the Kinges Maieſtie being then perſonally preſent) after that his Maieſtie had deſired aide of the God of heauen in whome only he put his truſt, and hauing cheered vp his Sould<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ours to fight in the behalfe of his Majeſties <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ighte
+<pb facs="tcp:150393:8"/> both the armies ioyned aſwell Horſemen as foote<g ref="char:EOLhyphen"/>men, in the ende whereof the enemye hauing made very ſmall reſiſtance, was by the wonderfull proui<g ref="char:EOLhyphen"/>dence of God, ſuddenly ſtricken with a great feare, inſomuch as they might ſcarſe ſtaye any longer: which his Maieſties Souldiours and leaders per<g ref="char:EOLhyphen"/>ceiuing, gaue them ſuch a hotte charge,<note place="margin">The flying and purſuit of the ene<g ref="char:EOLhyphen"/>my.</note> that they turned their backs and fled: Wherevpon his maie<g ref="char:EOLhyphen"/>ſties power purſued them two miles from <hi>Londi<g ref="char:EOLhyphen"/>ac,</hi> where the enemie ſtaied with thoſe Horſemen that eſcaped in a Towne or hold, helde by their fa<g ref="char:EOLhyphen"/>uourers, hauing loſt many footemen, beſide fiftie Horſemen ſlaine, as manye more taken priſoners, and ſundry other that were ſore hurt.</p>
+            <p>The footemen that were ſcattered and diſpear<g ref="char:EOLhyphen"/>ced in multitudes, ſeeing their horſemen fled, ſlaine, or taken priſoners: ſought to ſaue themſelues by flight, who ſo ſpeedily as they might ranne into the woods which were neere at hand, and there hid themſelues.</p>
+            <p>This newes came to <hi>Mouncounter</hi>
+               <note place="margin">The enemy flieth from Mouncoun<g ref="char:EOLunhyphen"/>ter.</note> which was ſpéedily blazed throughout all the enemies troups, by meanes wherof there aroſe ſuch a generall feare among them, that they retired from <hi>Mouncounter</hi> with all poſſible ſpeed, leauing the Town frée from any ſtrength of the enemy.</p>
+            <p>But the ſaide <hi>Mounſier <hi>de la Tremblaye</hi>
+               </hi> béeing in the Caſtle, and ſéeing how wonderfullye it had pleaſed God to bring theſe thinges to paſſe for the eaſe and quietnes of his Maieſtie, and for the ouer<g ref="char:EOLhyphen"/>throwe of his enemies, he with his company iſſued
+<pb facs="tcp:150393:9"/> foorth of the Caſtle, and ſéeing them gone out of <hi>Mouncounter,</hi>
+               <note place="margin">The enemy by flight was purſu<g ref="char:EOLhyphen"/>ed and all of them ſlaine.</note> he with his forces made a greater charge vpon the enemy then was at the firſte, and followed them imediatly, when ſetting vpon them with great courage, they were all in generall ſlain and taken Priſoners, by meanes whereof they got both bagge and baggage from the Leagars.</p>
+            <p>Sithence that time my ſaide Lord the Prince of <hi>Dumbes</hi> being departed towards <hi>Quimparcoren<g ref="char:EOLhyphen"/>tem</hi> in Lowe <hi>Brittainie</hi>
+               <note place="margin">Other gar<g ref="char:EOLhyphen"/>riſons of the enemy ſlaine.</note> the Garriſons of the ene<g ref="char:EOLhyphen"/>mye would haue charged vpon ſome of his troupes that went foorth of the ſaide Towne: but hauing béene preuented by good foreſight, the ſaide Garri<g ref="char:EOLhyphen"/>ſons were ouerthrowne by the ſaid Lord Prince of <hi>Dumbes,</hi> who loſt not one man in the ſaide ouer<g ref="char:EOLhyphen"/>throwe of the enemy.</p>
+            <p>There was ſlaine on the enemies ſide three Captaines of name,<note place="margin">Some ſlaine other taken priſoners.</note> who were of great eſtimation and chéefe account among the Leaguers: there was alſo ſeauen Gentlemen taken priſoners, who are yet liuing: Neuertheles all the reſt were fol<g ref="char:EOLhyphen"/>lowed in chaſe, and vpon the purſuite were all put to the Swoord.</p>
+            <p>THus may you ſée how the Lord dayly fighteth for his Maieſtie, how he ſaueth the godly and deſtroieth the wicked, how the King proſpereth while his enemies periſheth, how contrarye to mans expectation the King in ſhew being weakeſt, is found in the ende to be the ſtrongeſt: and that which his enemies for a while by force holdeth fro<g ref="char:cmbAbbrStroke">̄</g> him, they are by y<hi rend="sup">e</hi> outſtretched arme of God com<g ref="char:EOLhyphen"/>pelled
+<pb facs="tcp:150393:9"/> in the end to render vnto him. O vnſpeaka<g ref="char:EOLhyphen"/>ble bleſſing and heauenlye comfort, a comfort farre excelling all earthly comforts: which appertaineth to none but to the faithfull beleeuers, ſeruants and followers of Chriſt Ieſus.</p>
+            <p>And although the cheefeſt Citties appertaining to his Maieſtie haue béene for a while by force de<g ref="char:EOLhyphen"/>tained from him, as <hi>Paris, Roan,</hi> and ſuch like: yet there is no doubt but that God in the end, yea and that ſpeedily wil compell them either to deliuer the ſame to his Maieſtie, or elſe by famine, to weaue the web of their own confuſion.</p>
+            <p>And now to you I doo addreſſe my pen O ye diſ<g ref="char:EOLhyphen"/>loyall ſubiects of <hi>Fraunce,</hi> that contend, rebell and reſiſt againſt your lawfull ſoueraigne: when it is bye time for you to be better aduiſed. Sée you not your perrill, or rather is it ſo deepe as hell, which though you cannot thorowly meaſure it, yet maye you iuſtly feare it: remember your ſelues betimes and know that your diſturbance of the ſtate is like to be the ouerthrow of the ſtate, without almigh<g ref="char:EOLhyphen"/>tie God doo woork your ſpéedyer conuerſion: eche man ſéeeth the horrour of your fact, and yet your ſelues cannot or at leaſt will not behold the ſame: come out of darkenes if you loue your owne wel<g ref="char:EOLhyphen"/>fare, open your eyes that you maye ſee your owne miſdemeanours, and humble your ſelues vnto his Maieſtie: yea I admoniſhe you for the honor of God, for the quietnes of the Realme, for the ſafety of your ſelues, your liues, poſſeſſions, wiues and children, yea and for the preſeruation of your own ſoules from euerlaſting death: that you withdraw your ſelues from diſloyall dealing againſt your ſo<g ref="char:EOLhyphen"/>ueraigne,
+<pb facs="tcp:150393:10"/> your taking armes againſt his maieſtie, is an act moſt deteſtable, yea your fact is odious and not pardonable: and yet knowe your King is gratious, he is mercifull, naye readier to conceiue well of you, then he is to condemne you: if <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e you would leaue following of your vngodlye leaders, that haue by wicked perſwaſion incenſed you to this diſloialty You take arme againſt your King, and are parties with Arch-traitors, who to diſcre<g ref="char:EOLhyphen"/>dit the title of his Maieſtie, haue drawne falſe pe<g ref="char:EOLhyphen"/>digrées, to cullour their treaſon, ſhewing by great falſſhood, that the houſe of the <hi>Guize</hi> in whoſe be<g ref="char:EOLhyphen"/>halfe you fight is the next and right heire to the in<g ref="char:EOLhyphen"/>heritance of the diadem of <hi>Fraunce:</hi> which how far they are from trueth, let the Princes and chéefe peeres examine and iudge without affection, then ſhall trueth ouerthrowe your traiterous perſwa<g ref="char:EOLhyphen"/>ders, and you the moſt forwardeſt that now ſtan<g ref="char:EOLhyphen"/>deth in the defence therof, ſhall ſée manifeſt proofe, that none but <hi>Henry</hi> of <hi>Burbone</hi> is your lawfull King, and whom you ought dayly to pray for, and dutifully to obeye.</p>
+            <p>The God of heauen proſper and bleſſe his Ma<g ref="char:EOLhyphen"/>ieſtie, graunt vnto him victorie ſtill ouer his ene<g ref="char:EOLhyphen"/>mies, that either his Subiectes may with ſpeede be reconciled to obedience, or elſe that they may be ſpeedily confounded in thir wil<g ref="char:EOLunhyphen"/>full ſtubbornnes.</p>
+            <closer>Amen.</closer>
+            <pb facs="tcp:150393:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
